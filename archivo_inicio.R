@@ -4,5 +4,8 @@
 #Inicio
 1+10
 
-Resta
+#Resta
 25-30
+
+#Division
+5/12
